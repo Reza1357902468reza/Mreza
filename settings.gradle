@@ -1,0 +1,2 @@
+rootProject.name = 'GeoPhotoMap_GitHubReady'
+include ':app'
